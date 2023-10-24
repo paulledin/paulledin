@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulledin
 - 👀 I’m interested in ... data science, cluster computing, AI, ML, etc. with an eye towards algorithmic trading and economic research (particularly credit unions / cooperative finance models).
-- 🌱 I’m currently learning ... anything and everything I can as an applied econ grad student.
+- 🌱 I’m currently learning ... anything and everything I can.
 - 💞️ I’m looking to collaborate on ... anything interesting.
 - 📫 How to reach me ... paul_ledin@uwalumni.com
 
