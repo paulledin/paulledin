@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulledin
 - 👀 I’m interested in ... data science, cluster computing, AI, ML, etc. with an eye towards algorithmic trading and economic research (particularly credit unions / cooperative finance models).
-- 🌱 I’m currently learning ... anything and everything I can.
+- 🌱 I’m currently learning ... all things AI / Agentic programming.
 - 💞️ I’m looking to collaborate on ... anything interesting.
 - 📫 How to reach me ... pledin@americascreditunions.org
 
